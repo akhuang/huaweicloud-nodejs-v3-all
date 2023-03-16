@@ -1,0 +1,18 @@
+{
+    "name": "@huaweicloudtest/huaweicloud-sdk-all-test",
+    "version": "3.1.29",
+    "description": "Huawei Cloud SDK for Node.js includes all cloud services",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huaweicloud/huaweicloud-sdk-nodejs-v3"
+    },
+    "dependencies": {
+        "@huaweicloud/huaweicloud-sdk-eps": "^3.1.29",
+        "@huaweicloud/huaweicloud-sdk-frs": "^3.1.28",
+        "@huaweicloud/huaweicloud-sdk-functiongraph": "^3.1.28",
+        "@huaweicloud/huaweicloud-sdk-vpc": "^3.1.28"
+    },
+    "files": [
+        "package.json"
+    ]
+}
